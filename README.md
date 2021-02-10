@@ -1,5 +1,5 @@
 ###  👋 Hi I am Maryam
-     🌱 I’m currently learning Javascript.
+     🌱 I’m currently learning JavaScript.
      
 
 
