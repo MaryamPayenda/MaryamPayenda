@@ -1,5 +1,6 @@
 ###  👋 Hi I am Maryam
-     💬 Open to new Tech Idea 
+     🌱 I’m currently learning Javascript.
+     
 
 
 <!--
