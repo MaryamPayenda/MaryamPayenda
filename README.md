@@ -1,8 +1,9 @@
 [![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/Header.png)]
-###  👋 Hi I am Maryam
+###  👋 Hello my name is  Maryam
      🌱 I’m currently learning JavaScript.
-     
-
+     💬
+     😊
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **MaryamPayenda/MaryamPayenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
