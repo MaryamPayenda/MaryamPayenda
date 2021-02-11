@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/1.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/1.png "Header" =100x20)]
 ###  👋 Hi I am Maryam
      🌱 I’m currently learning JavaScript.
      
