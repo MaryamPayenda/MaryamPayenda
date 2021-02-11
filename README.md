@@ -1,5 +1,4 @@
-
-                        [![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/1.png)]
+[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/Header.png)]
 ###  👋 Hi I am Maryam
      🌱 I’m currently learning JavaScript.
      
