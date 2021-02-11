@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/1.png){:height="36px" width="36px"}
+                        [![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/1.png)]
 ###  👋 Hi I am Maryam
      🌱 I’m currently learning JavaScript.
      
