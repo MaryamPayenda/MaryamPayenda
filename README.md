@@ -1,4 +1,4 @@
-[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/Header.png)]
+[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/header.png)]
 ###  👋 Hello my name is  Maryam
      🌱 I’m currently learning JavaScript.
      💬
