@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/linkedin.png" />](https://www.linkedin.com/in/maryam-payenda-1844a7140/)
-[<img align="left" alt="Instagram" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/instagram.png" />][]
+[<img align="left" alt="Instagram" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/instagram.png" />](https://www.instagram.com/_mm.payenda/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
