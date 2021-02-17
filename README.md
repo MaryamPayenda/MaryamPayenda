@@ -7,8 +7,8 @@
 ### Connect with me: 📫
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/linkedin.webp" />](https://www.linkedin.com/in/maryam-payenda-1844a7140/)
-[<img align="left" alt="Instagram" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />](https://www.instagram.com/_mm.payenda/)
+[<img align="left" alt="Instagram" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/instagram_logo.webp" />](https://www.instagram.com/_mm.payenda/)
 
-[<img align="left" alt="mail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/instagram_logo.webp" />](mailto:maryampayanda12@gmail.com?)
+[<img align="left" alt="gmail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />](mailto:maryampayanda12@gmail.com?)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
