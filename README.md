@@ -1,8 +1,17 @@
 [![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/header.png)]
-###  👋 Hello my name is  Maryam
-     🌱 I’m currently learning JavaScript.
-     💬
-     😊
+## Hi there!!
+
+- 🔭 I
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: to become web developer
+- ⚡ Fun fact: I love drawing.
+
+### Connect with me:
+
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
