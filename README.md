@@ -1,4 +1,4 @@
-[![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/header.png)]
+![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/header.png)
 ## Hi there!!
 
 - 🔭 I
