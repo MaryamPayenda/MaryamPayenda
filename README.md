@@ -1,7 +1,7 @@
 ![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/header.png)
 ## Hi there!!
 
-- 🔭 I
+- 🔭 [Mail me](mailto:maryampayanda12@gmail.com?)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
