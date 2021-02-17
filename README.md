@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
--✨Human Languages I can speak: Persian,English,Pashto,Hindi,German and some Arabic
+- ✨Human Languages I can speak: Persian,English,Pashto,Hindi,German and some Arabic
 
 ### Connect with me: 📫
 
