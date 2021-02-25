@@ -8,6 +8,7 @@
 
 ### Checkout some of my work
 [Cat Gallery](https://maryampayenda.github.io/galleryWall/)  
+[Periodic Table](https://maryampayenda.github.io/periodicTable/)  
 
 ### Connect with me: 📫
 
