@@ -4,6 +4,8 @@
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
 - ✨Human Languages I can speak: Persian,English,Pashto,Hindi,German and some Arabic
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
+
 
 
 ### Checkout some of my work (html + CSS) 
