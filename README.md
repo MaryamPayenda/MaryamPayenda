@@ -9,20 +9,9 @@
 - ⚡ Fun fact: I love drawing.  
 
 
-
-
-<!-- 
-### Checkout some of my work (html + CSS) 
-[Cat Gallery](https://maryampayenda.github.io/galleryWall/)  
-[Periodic Table](https://maryampayenda.github.io/periodicTable/)  
-[Login](https://maryampayenda.github.io/loginApp/)    
-[Youtube Clone](https://maryampayenda.github.io/youTube/)   -->
-
-### Connect with me: 📫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
 
-
-<!-- [<img align="left" alt="gmail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />] -->
+### Connect with me: 📫
 
  <a href="mailto:maryampayanda12@gmail.com"> Email Me </a>
 
