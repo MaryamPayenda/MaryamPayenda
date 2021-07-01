@@ -6,27 +6,17 @@
 - 🌱 I’m currently Web Dev student
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
-
-
-
-
-
-
-
-
-<h2> WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute</a></h2>
-
-
+<!-- 
 ### Checkout some of my work (html + CSS) 
 [Cat Gallery](https://maryampayenda.github.io/galleryWall/)  
 [Periodic Table](https://maryampayenda.github.io/periodicTable/)  
 [Login](https://maryampayenda.github.io/loginApp/)    
-[Youtube Clone](https://maryampayenda.github.io/youTube/)  
+[Youtube Clone](https://maryampayenda.github.io/youTube/)   -->
 
 ### Connect with me: 📫
 
-[<img align="left" alt="LinkedIn" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/linkedin.webp" />](https://www.linkedin.com/in/maryam-payenda-1844a7140/)
+<!-- [<img align="left" alt="gmail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />] -->
 
-[<img align="left" alt="gmail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />](mailto:maryampayanda12@gmail.com?)
+ <a href="mailto:maryampayanda12@gmail.com> Email Me </a>
 
 
