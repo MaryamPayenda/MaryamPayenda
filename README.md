@@ -19,6 +19,7 @@
 [Youtube Clone](https://maryampayenda.github.io/youTube/)   -->
 
 ### Connect with me: 📫
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianeBusch-Wallace&show_icons=true&title_color=05668D&text_color=05668D&bg_color=100,FF6392,FFE45E,7BF1A8&icon_color=05668D&border_color=05668D)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [<img align="left" alt="gmail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />] -->
 
