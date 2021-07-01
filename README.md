@@ -9,10 +9,12 @@
 - ⚡ Fun fact: I love drawing.  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
 
 ### Connect with me: 📫
 
  <a href="mailto:maryampayanda12@gmail.com"> Email Me </a>
+
+
 
 
