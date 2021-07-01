@@ -2,14 +2,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/MaryamPayenda?style=social)](https://github.com/MaryamPayenda)
 
 <h2>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
-
+<img align='right' src="https://user-images.githubusercontent.com/20128950/124126521-08e52680-da7b-11eb-81c0-c8d9b0a99315.gif" width="210">
 - 🌱 I’m currently Web Dev student
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
-<!-- 
-![gif-tech](https://user-images.githubusercontent.com/20128950/124126521-08e52680-da7b-11eb-81c0-c8d9b0a99315.gif|width=100px) -->
 
-<img align='right' src="https://user-images.githubusercontent.com/20128950/124126521-08e52680-da7b-11eb-81c0-c8d9b0a99315.gif" width="210">
+
+
+
 <!-- 
 ### Checkout some of my work (html + CSS) 
 [Cat Gallery](https://maryampayenda.github.io/galleryWall/)  
