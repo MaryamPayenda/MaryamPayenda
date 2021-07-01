@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
 
-![gif-tech](https://user-images.githubusercontent.com/20128950/124126521-08e52680-da7b-11eb-81c0-c8d9b0a99315.gif)
+![gif-tech](https://user-images.githubusercontent.com/20128950/124126521-08e52680-da7b-11eb-81c0-c8d9b0a99315.gif height="30px")
 
 <!-- 
 ### Checkout some of my work (html + CSS) 
