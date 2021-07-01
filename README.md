@@ -17,6 +17,6 @@
 
 <!-- [<img align="left" alt="gmail" width="32px" src="https://github.com/MaryamPayenda/MaryamPayenda/blob/main/gmail_logo.png" />] -->
 
- <a href="mailto:maryampayanda12@gmail.com> Email Me </a>
+ <a href="mailto:maryampayanda12@gmail.com"> Email Me </a>
 
 
