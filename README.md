@@ -1,24 +1,18 @@
-[![Linkedin: Maryam](https://img.shields.io/badge/-MaryamPayenda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryam-payenda-1844a7140/)](https://www.linkedin.com/in/maryam-payenda-1844a7140/) 
+[![Linkedin: Maryam](https://img.shields.io/badge/-Maryam Payenda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryam-payenda-1844a7140/)](https://www.linkedin.com/in/maryam-payenda-1844a7140/) 
 [![GitHub followers](https://img.shields.io/github/followers/MaryamPayenda?style=social)](https://github.com/MaryamPayenda)
 
-[![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)](https://github.com/MaryamPayenda)
-<h1>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h2>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
-![Header](https://github.com/MaryamPayenda/MaryamPayenda/blob/main/header.png)
-
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently Web Dev student
 - 🥅 2021 Goals: to become web developer
 - ⚡ Fun fact: I love drawing.
-- ✨Human Languages I can speak: Persian,English,Pashto,Hindi,German and some Arabic
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="210">
 
-[![Linkedin: Maryam](https://img.shields.io/badge/-darioevers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryam-payenda-1844a7140/)](https://www.linkedin.com/in/maryam-payenda-1844a7140/)
 
-[![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)](https://github.com/MaryamPayenda)
+
+
+
 
 <h2> WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute</a></h2>
 
