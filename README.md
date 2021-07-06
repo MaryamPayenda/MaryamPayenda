@@ -6,7 +6,7 @@
 <hr/>
 - 🌱 I’m currently Web Dev student  
 - 🥅 2021 Goals: to become web developer  
-- ⚡ Fun fact: I love drawing.  
+- ⚡ Have a look in my <a href="https://maryampayenda.github.io/portfolio-react/">portfolio</a>  
 
 
 ![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
