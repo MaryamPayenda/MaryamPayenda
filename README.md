@@ -8,9 +8,9 @@
 <p align="center"> 🥅 2021 Goals: to become web developer  </p>
 <p align="center"> ⚡ Have a look in to my <a href="https://maryampayenda.github.io/portfolio-react/">Portfolio</a></p>
 
-<p align="center">
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
- </p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
+ 
 
 ### Connect with me: 📫
 
