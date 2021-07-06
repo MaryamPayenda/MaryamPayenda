@@ -9,12 +9,12 @@
 <p align="center"> ⚡ Have a look in to my <a href="https://maryampayenda.github.io/portfolio-react/">Portfolio</a></p>
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamPayenda&show_icons=true&theme=radical)
  
 
-### Connect with me: 📫
+##### Connect with me: 📫
 
- <a href="mailto:maryampayanda12@gmail.com"> Email Me </a>
+ <a href="mailto:maryampayanda12@gmail.com"> Write me Email </a>
 
 
 
